@@ -1,0 +1,18 @@
+{
+  "name": "Thaicasinoslot",
+  "main": "Thaicasinoslot",
+  "theme": "syntax",
+  "version": "1.7.1",
+  "description": "Thaicasinoslot รวมคาสิโนออนไลน์ได้เงินจริงที่ดีที่สุดปี 2021!",
+  "keywords": [
+      "credit free",
+      "thaicasinoslot",
+      "เครดติฟรี",
+      "เครดิตฟรีไมต่้องฝากไมต้องแชร์",
+      "รวมเครดติฟรี"
+    ],
+  "repository": "https://github.com/kimmysled/Thaicasinoslot",
+  "license": "MIT",
+  "engines": {
+      "atom": ">=1.0.0 <2.0.0" }
+}
